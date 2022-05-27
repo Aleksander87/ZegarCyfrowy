@@ -8,6 +8,7 @@ body {
     justify-content: center;
     background: url("https://images.unsplash.com/photo-1557401622-cfc0aa5d146c?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471");
     background-size: cover;
+    overflow: hidden;
 }
 
 h2 {
@@ -54,4 +55,6 @@ h2 {
     position: absolute;
     width: 60px;
     height: 30px;
+    font-size: 20px;
+    background: green;
 }
